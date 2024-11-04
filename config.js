@@ -42,7 +42,10 @@ module.exports = {
    "host": "lava.catfein.com",
    "port": 4000,
    "password": "catfein",
-   "secure": false
+   "secure": false ,
+
+reconnectTimeout: 5000,
+        reconnectTries: Infinity,
     },
  ]
 }
