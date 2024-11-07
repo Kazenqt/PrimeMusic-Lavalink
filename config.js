@@ -39,10 +39,11 @@ module.exports = {
   nodes: [
     {
  
-   "host": "lava.catfein.com",
-   "port": 4000,
-   "password": "catfein",
-   "secure": false ,
+"identifier": "Naig Node - 01",
+  "password": "NAIGLAVA-dash.techbyte.host",
+  "host": "lavalink01.techbyte.host",
+  "port": 2036,
+  "secure": false, 
 
 reconnectTimeout: 5000,
         reconnectTries: Infinity,
