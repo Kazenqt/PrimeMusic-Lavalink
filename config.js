@@ -37,15 +37,14 @@ module.exports = {
    // Lavalink Server Details
 
   nodes: [
-    {
- 
-"identifier": "Naig Node - 01",
-  "password": "NAIGLAVA-dash.techbyte.host",
-  "host": "lavalink01.techbyte.host",
-  "port": 2036,
-  "secure": false, 
+ {
+  "identifier": "AjieDev - Lavalink [Non SSL | US]",
+  "password": "https://dsc.gg/ajidevserver",
+  "host": "lava-v3.ajieblogs.eu.org",
+  "port": 80,
+  "secure": false,
 
-reconnectTimeout: 5000,
+   reconnectTimeout: 5000,
         reconnectTries: Infinity,
     },
  ]
