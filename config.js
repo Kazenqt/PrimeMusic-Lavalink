@@ -42,10 +42,10 @@ module.exports = {
   "password": "saher.inzeworld.com",
   "host": "lava.inzeworld.com",
   "port": 3128,
-  "secure": false,
+  "secure": false ,
 
-  reconnectTimeout: 5000,
-  reconnectTries: infinity,
+ reconnectTimeout: 5000,
+        reconnectTries: Infinity,
     },
  ]
 }
